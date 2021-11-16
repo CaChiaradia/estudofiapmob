@@ -1,0 +1,20 @@
+{
+  "name": "estudofiapmob",
+  "version": "1.0.0",
+  "description": "Back para cadastro de clientes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Mob",
+    "23"
+  ],
+  "author": "Carol",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
